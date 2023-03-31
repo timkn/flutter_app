@@ -1,7 +1,7 @@
 # CarbonDiet - Grocery Receipt Scanner
 CarbonDiet is a mobile application that uses image recognition and AI technology to scan grocery shopping receipts, allowing users to calculate their carbon footprint. It was submitted to the [Google Challange](https://github.com/START-Hack/GOOGLE_STARTHACK23) of the [START](https://www.startglobal.org/) Hack 2023.
 
-CarbonDiet provides users with a comprehensive summary of the environmental impact of their purchases and identifies the product categories that contribute the most to their carbon footprint. This information enables users to make more informed purchasing decisions in the future. The application calls a Python backend, which can be found at [GitHub](https://github.com/TheNewReducers/backend). The backend provides the necessary logic to recognize and classify items on the receipts and to calculate the carbon footprint of the user's shopping.
+CarbonDiet provides users with a comprehensive summary of the environmental impact of their purchases and identifies the product categories that contribute the most to their carbon footprint. This information enables users to make more informed purchasing decisions in the future. The application calls a [Python backend](https://github.com/TheNewReducers/backend), which can be found at [GitHub](https://github.com/TheNewReducers/backend). The backend provides the necessary logic to recognize and classify items on the receipts and to calculate the carbon footprint of the user's shopping.
 
 ## Preview
 ![Screenshot_20230330-174608](https://user-images.githubusercontent.com/94179814/228897307-51de1f14-906e-4d7c-b9bc-b88b26914228.jpg)
